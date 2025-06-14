@@ -1,5 +1,5 @@
 # Davi De Franceschi Lisbôa
-Aluno de Engenharia Eletrônica desde 2024, atualmente meu maiores interesses são sistemas embarcados e sistemas automotivos.
+Aluno de Engenharia Eletrônica desde 2024, atualmente meu maior interesse é sistemas embarcados.
 
 ## Currículo
 
