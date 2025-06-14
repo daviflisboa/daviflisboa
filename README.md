@@ -1,6 +1,14 @@
-## Davi De Franceschi Lisbôa
+# Davi De Franceschi Lisbôa
 Aluno de Engenharia Eletrônica desde 2024, atualmente meu maiores interesses são sistemas embarcados e sistemas automotivos.
 
+## Currículo
+
+### Formação
+
+## Experiências
+
+## Contato
+Email: davilisboa@alunos.utfpr.edu.br
 <!--
 **lisboa7789/lisboa7789** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
