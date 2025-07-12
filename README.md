@@ -2,10 +2,10 @@
 Aluno de Engenharia Eletrônica desde 2024, atualmente meu maior interesse é sistemas embarcados e microcontroladores.
 
 ### Formação
-  Ensino Médio: Técnico em Automação Industrial Integrado ao Ensino Médio no IFC - Campus São Bento do Sul
+  Ensino Médio: Técnico em Automação Industrial Integrado ao Ensino Médio no **IFC - Campus São Bento do Sul**
   
-  Ensino Superior(Cursando terceiro período): Bacharel em Engenharia Eletrônica na UTFPR Campus Curitiba
-
+  Ensino Superior(Cursando terceiro período): Bacharel em Engenharia Eletrônica na **UTFPR - Campus Curitiba**
+  
 ## Experiências
 
 ## Contato
