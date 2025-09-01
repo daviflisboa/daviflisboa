@@ -1,5 +1,5 @@
 # Davi De Franceschi Lisbôa
-Aluno de Engenharia Eletrônica desde 2024, atualmente meu maior interesse é sistemas embarcados e microcontroladores.
+Aluno de Engenharia Eletrônica desde 2024, atualmente meu maior interesse é sistemas embarcados.
 
 ### Formação
   Ensino Médio: Técnico em Automação Industrial Integrado ao Ensino Médio no **IFC - Campus São Bento do Sul**
